@@ -1,0 +1,8 @@
+{
+  "name": "blog-portal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yzffvinz/blog-portal.git",
+  "author": "yzffvinz <1178043794@qq.com>",
+  "license": "MIT"
+}
